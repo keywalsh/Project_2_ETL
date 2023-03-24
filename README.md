@@ -1,4 +1,6 @@
 # Project_2_ETL - Katelyn Walsh and Haddi Fadia
+## My Partner, Haddi, has different code
+
 ## Part 1 
 Create the Category and Subcategory DataFrames
 
