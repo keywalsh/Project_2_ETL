@@ -12,3 +12,5 @@ Create the Crowdfunding Database
 
 ## Part 2 
 Create Crowdfunding Database
+
+DBD visual in Resources folder
